@@ -183,12 +183,4 @@ __Sample Code Snippet Using putAsCopy() with no timeout value__
 intcCaching.putAsCopy('myCache', myObjectToPutInCache);
 ```
 
-## SecurityProvider.js
-
-Add custom authorization to Angular to secure access to controllers and control visibility of UI elements within the views. For usage details, see https://github.intel.com/5Star/intcNg/wiki/Security-Provider.
-
----
-
-Please submit questions, suggestions, and bugs to the [repo's Issues log](https://github.intel.com/5Star/intcNg/issues).
-
 

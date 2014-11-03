@@ -19,7 +19,7 @@ __Step 2: Add the Dependencies in Index.html__
 <script src="bower_components/tmix-caching/tmixCaching.js"></script>
 ```
 
-__Step 3: Add tmixCaching as a Dependency in App.js__
+__Step 3: Add tmixCaching as a Dependency in your app__
 
 ```
 angular.module('MYAPPNAME', [

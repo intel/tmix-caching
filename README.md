@@ -7,6 +7,9 @@ AngularJS service that extends the $cacheFactory with time out functionality.
 
 ## Usage
 
+__Step 1: Install via Bower
+  
+  
 __Step 2: Add the Dependencies in Index.html__
 
 
@@ -44,8 +47,6 @@ angular.module('myApp')
 
 
 ## Methods
-
-Extends angular's $cacheFactory with time based functionality.  Allows for setting a timeout on cache objects. There are six methods available in this service.
 
 ### destroy()
 

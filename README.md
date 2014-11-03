@@ -109,6 +109,21 @@ __Sample Code Snippet Using getTimeout()__
 var myDataTimeout = intcCaching.getTimeout('myCache');
 ```
 
+### getTimeRemaining()
+
+__getTimeRemaining(name)__
+
+Returns the number of milliseconds until the object times out.  Will return a null if the object does not exist.
+
+* name (required): string
+* _Returns the number of millseconds until the specified object times out_
+
+__Sample Code Snippet Using getTimeStamp()__
+
+```
+var remainingTime = intcCaching.getTimeRemaining('myCache');
+```
+
 ### getTimeStamp()
 
 __getTimeStamp(name)__

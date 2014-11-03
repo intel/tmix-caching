@@ -35,7 +35,7 @@ angular.module('MYAPPNAME', [
 ```
 
 
-__Step 4: Add the dependency where necessary__
+__Step 4: Inject the service where used__
 
 
 ```

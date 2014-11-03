@@ -70,7 +70,7 @@ __get(name)__
 
 Returns the specified object from cache.  Will return a null if the object does not exist or has timed out.
 
-* name (required): string
+* name (required): string The name of the cache object.
 * _Returns the specified object from cache_
 
 __Sample Code Snippet Using get()__

@@ -7,7 +7,7 @@ AngularJS service that extends the $cacheFactory with time out functionality.
 
 ## Usage
 
-__Step 1: Install via Bower
+__Step 1: Install via Bower__
   
   
 __Step 2: Add the Dependencies in Index.html__

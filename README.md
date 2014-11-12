@@ -9,7 +9,7 @@ AngularJS service that extends the $cacheFactory with time out functionality.
 
 __Step 1: Install via Bower__
 ```
-bower install tmix-caching
+bower install tmix-caching --save
 ```
   
 __Step 2: Add the script reference in Index.html (bower may do this for you already)__

@@ -1,9 +1,0 @@
-{
-	"directory" : "test/bower_components",
-	"registry": {
-		"search": [
-			"http://bowerregistry.paas1.icloud.intel.com",
-			"https://bower.herokuapp.com"
-		]
-	}
-}
